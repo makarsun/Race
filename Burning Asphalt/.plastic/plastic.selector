@@ -1,0 +1,4 @@
+repository "Burning Asphalt@makarsun@cloud"
+  path "/"
+    br "/main"
+    co "/main"
